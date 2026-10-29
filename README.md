@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there
 
 cynex here, im from eu de, an android developer. btw, contact me via gmail plz: unixplayer@gmail.com
 
