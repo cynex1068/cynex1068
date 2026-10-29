@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-cynex here, from eu de, im an android developer. btw, contact me via gmail plz: unixplayer@gmail.com
+cynex here, im from eu de, an android developer. btw, contact me via gmail plz: unixplayer@gmail.com
 
 <!--
 **cynex1068/cynex1068** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
